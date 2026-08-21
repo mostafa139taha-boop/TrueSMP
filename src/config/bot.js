@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Custom Status", // required by Discord API, not shown in the client
-        state: "Watching Over TrueSMP",     // this is what people actually see
+        state: "Watching Over Trunova Network",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
